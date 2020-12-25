@@ -20,7 +20,7 @@
 #
 
 # Copy config
-rsync -av vendor/muhamed/weather_ackage/config ./
+rsync -av vendor/muhamed/weather_package/config ./
 
 # Copy view
 
