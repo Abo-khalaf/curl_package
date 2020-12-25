@@ -1,0 +1,37 @@
+{
+    "name": "muhamed/curl_package",
+    "type": "library",
+    "description": "Anax remserver module.",
+    "keywords": ["boilerplate", "framework", "mvc", "micro", "education", "weather"],
+    "homepage": "http://www.student.bth.se/~muab19/dbwebb-kurser/ramverk1/me/redovisa/htdocs/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "muhamed khalaf",
+            "email": "moody_kh_90@hotmail.com",
+            "homepage": "http://www.student.bth.se/~muab19/dbwebb-kurser/ramverk1/me/redovisa/htdocs/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/muhamed/curl_package/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "Moody\\": "src/"
+
+        }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4",
+        "anax/commons": "^2.0.14"
+    },
+    "require-dev": {
+        "phpmetrics/phpmetrics": "^2",
+        "phpunit/phpunit": "^7",
+        "anax/anax": "^2.0.17"
+    }
+}
