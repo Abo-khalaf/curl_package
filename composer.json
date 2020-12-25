@@ -1,5 +1,5 @@
 {
-    "name": "muhamed/curl_package",
+    "name": "muhamed/weather_package",
     "type": "library",
     "description": "Anax remserver module.",
     "keywords": ["boilerplate", "framework", "mvc", "micro", "education", "weather"],
@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/muhamed/curl_package/issues"
+        "issues": "https://github.com/muhamed/weather_package/issues"
     },
     "autoload": {
         "psr-4": {
