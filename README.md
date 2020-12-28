@@ -1,3 +1,23 @@
+#travis link
+[![Build Status](https://travis-ci.com/Abo-khalaf/weather_package.svg?branch=master)](https://travis-ci.com/Abo-khalaf/weather_package)
+
+
+
+#Scrutinizer link
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/?branch=master)
+
+
+[![Code Coverage](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/?branch=master)
+
+
+[![Build Status](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/build-status/master)
+
+
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
+
+
+
 # Go to the root of your Anax base repo
 bash vendor/muhamed/weather_package/.anax/scaffold/postprocess.d/700_weather_package.bash
 
