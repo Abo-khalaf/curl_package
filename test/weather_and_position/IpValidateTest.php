@@ -31,6 +31,8 @@ class IpValidateTest extends TestCase
         $this->di = new DIFactoryConfig();
         $this->di->loadServices(ANAX_INSTALL_PATH . "/config/di");
         $di->get("cache")->setPath(ANAX_INSTALL_PATH . "/test/cache");
+
+
         $di = $this->di;
 
         // Setup the controller
