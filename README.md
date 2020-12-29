@@ -1,9 +1,7 @@
-#travis link
+
 [![Build Status](https://travis-ci.com/Abo-khalaf/weather_package.svg?branch=master)](https://travis-ci.com/Abo-khalaf/weather_package)
 
 
-
-#Scrutinizer link
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/?branch=master)
 
 
@@ -14,8 +12,6 @@
 
 
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/Abo-khalaf/weather_package/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-
-
 
 
 
